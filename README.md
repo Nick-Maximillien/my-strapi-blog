@@ -16,7 +16,7 @@ This is the headless **Strapi CMS** backend for a modern blog site. It powers a 
 🔗 [Live Strapi API](https://my-strapi-app.onrender.com)  
 📦 [GitHub Repository](https://github.com/Nick-Maximillien/my-strapi-blog)
 
-> (Replace the links above with your actual Render and GitHub URLs)
+
 
 ---
 
